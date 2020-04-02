@@ -3,3 +3,5 @@
 
  Repositório criado durante uma aula ao vivo!
  Link: https://www.youtube.com/watch?v=5BYm7UdCrX0
+ 
+ Essa linha foi add diretamente do site do GitHub!
